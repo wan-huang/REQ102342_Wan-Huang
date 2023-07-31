@@ -1,2 +1,12 @@
 # REQ102342_Wan-Huang
 Dashboard creation utilizing BC Data Catalogue
+
+Step 1
+Wrote python code REQ102342_BC Data Catalogue API.ipynb
+to extract relevant packages (datasets) 
+utilizing BC Data Catalogue API https://catalogue.data.gov.bc.ca/dataset/bc-data-catalogue-api
+
+Step 2 
+Identified datasets for dashboard creation 
+- Dataset 1 Hospitals in BC https://catalogue.data.gov.bc.ca/dataset/hospitals-in-bc
+- Dataset 2 
